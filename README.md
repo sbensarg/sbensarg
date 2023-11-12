@@ -2,6 +2,11 @@
 
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=sbensarg)](https://github.com/mohouyizme/1337-readme)
  -->
+ <h2> Hi, I'm Sara Bensarghin!</h2>
+
+- 🔭 Student at 1337 School [42 Network].
+- 🌱 I’m currently learning about React
+- 💬 Ask me about Java, C, C++, Javascript or anything! I won't always be able to help, but I'll do my best !
  
  [![<sbensarg>'s 42 stats](https://badge.mediaplus.ma/binary/sbensarg)](https://github.com/sbensarg)
  
@@ -25,12 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2> Hi, I'm Sara Bensarghin!</h2>
-
-- 🔭 Student at 1337 School [42 Network].
-- 🌱 I’m currently learning about React
-- 💬 Ask me about Java, C, C++, Javascript or anything! I won't always be able to help, but I'll do my best !
 
 <h2> How to reach me : </h2>
  <p id="badges" align="center">
